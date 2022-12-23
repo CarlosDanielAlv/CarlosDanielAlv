@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Carlos Daniel 👨🏽‍💻
 - Hoje trabalho como desenvolvedor low-cod
-- Skil principal JavaScript
+- Skils principais JavaScript, Node.js e Express.
 
 
 
