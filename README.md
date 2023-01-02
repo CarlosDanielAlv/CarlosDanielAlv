@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Carlos Daniel 👨🏽‍💻
-- Hoje trabalho como desenvolvedor low-cod
+- Hoje trabalho como desenvolvedor full-stack
 - Skils principais JavaScript, Node.js e Express.
 
 
