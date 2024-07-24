@@ -17,6 +17,7 @@
     <img align ="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align ="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     <img align ="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align ="center" alt="Bootstrap" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielAlv&layout=compact)](https://github.com/CarlosDanielAlv/github-readme-stats)
